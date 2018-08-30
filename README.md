@@ -1,6 +1,6 @@
 # vue_task
 
-> task: load remote data, view each item in popup, popup should remain after the reload page
+> task: load remote data, view each item in popup, popup should remain after the page reload 
 
 ## Build Setup
 
